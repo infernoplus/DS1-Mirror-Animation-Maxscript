@@ -2,6 +2,7 @@ objs = selection as array
 
 
 /* Notes 
+ - Created for 3DS Max 2015
  - This is incredibly jank and probably has tons of bugs
  - Gist of this is that it mirrors the animation, then calculates the difference between each frame and applies that to the original pose. 
  - Results tend to be slighty off so you may have to tweak varous values in the script to get exactly what you want
